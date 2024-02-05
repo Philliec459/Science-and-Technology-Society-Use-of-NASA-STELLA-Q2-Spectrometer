@@ -9,7 +9,7 @@ The NASA STELLA-Q2 can make 18 different measurements from violet/blue portions 
 
 https://landsat.gsfc.nasa.gov/stella/
 
-The following is an animation of the data aquired from STELLA-Q2 Spectrometer built by STS.
+The following is an animation of the data acquired from STELLA-Q2 Spectrometer built by STS, where STS is supplying a Jupyter Notebook with python code to be used as an example of how to display the data.
 >
 >![image](STELLA_color.gif)
 >
@@ -19,6 +19,20 @@ https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-build-instructions/
 
 ![image](STELLA_Q2_build.png)
 
-We are just starting on the applications from this spectromter, but they appear to be immense. This is just one application we are delving into as noted from North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011
+This is the STELLA parts list that we used to order our components:
+
+![image](STELLA-Q2_parts_list.png)
+
+
+We are just starting on the applications from this spectrometer, but they appear to be immense. This is just one application we are delving into as noted from North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
 
 ![image](STELLA_Applications.png)
+
+This is the STS STELLA-Q2 instrument that we built using the details supplied by the NASA:
+
+![image](STELLA.png)
+
+There is excellent documentation on programming the device found at this link:
+
+https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-programming-instructions/
+
