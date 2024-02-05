@@ -19,3 +19,6 @@ https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-build-instructions/
 
 ![image](STELLA_Q2_build.png)
 
+We are just starting on the applications from this spectromter, but they appear to be immense. This is just one application we are delving into as noted from North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011
+
+![image](STELLA_Applications.png)
