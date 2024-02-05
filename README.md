@@ -7,7 +7,7 @@ The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida
 
 The NASA STELLA-Q2 is capable of making 18 different measurements from violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision). More can be found on the STELLA DIY instruments at the following link.
 
-https://landsat.gsfc.nasa.gov/stella/
+>https://landsat.gsfc.nasa.gov/stella/
 
 The following is an animation of the data acquired from STELLA-Q2 Spectrometer built by STS. STS is providing a Jupyter Notebook with python code that can be used as an example of how to display the data from the STELLA-Q2 device. We have also provided some example data to be used with this notebook.
 
@@ -16,17 +16,17 @@ The following is an animation of the data acquired from STELLA-Q2 Spectrometer b
 >
 The NASA site offers detailed instructions on how to build the STELLA-Q2 instrument at the following link:
 
-https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-build-instructions/
+>https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-build-instructions/
 
-![image](STELLA_Q2_build.png)
+>![image](STELLA_Q2_build.png)
 
 This is the STELLA parts list that we used to order our components:
 
-![image](STELLA-Q2_parts_list.png)
+>![image](STELLA-Q2_parts_list.png)
 
 We are just starting on the applications from this spectrometer, but they appear to be immense. The following firgure provides some information on just one application we are delving into as noted from North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
 
-![image](STELLA_Applications.png)
+>![image](STELLA_Applications.png)
 
 Bianca Clento of Rochester Institute of Technology has an excellent poster on the **Quantifying Plant Biodiversity Using Different Spectrometers, Spectral Unmixing, and UAV Imagery** that serves as an example of the type of application that we would like to apply for SW Florida Gulf Coast. 
 
@@ -34,9 +34,9 @@ Bianca Clento of Rochester Institute of Technology has an excellent poster on th
 
 This is the STS STELLA-Q2 instrument that we built using the details supplied by the NASA:
 
-![image](STELLA.jpg)
+>![image](STELLA.jpg)
 
 There is excellent documentation on programming this device that can be found at the following link:
 
-https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-programming-instructions/
+>https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-programming-instructions/
 
