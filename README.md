@@ -3,7 +3,7 @@
 
 # Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer
 
-The Science and Technology Society (STS) of Sarasota-Manatee Counties Florida is working with the NASA STELLA (Science and Technology Education for Land/Life Assessment) outreach program as a part of our STEM initiative. According to their site, "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better".
+The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida** is working with the NASA STELLA (Science and Technology Education for Land/Life Assessment) outreach program as a part of our STEM initiative. According to their site, "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better".
 
 The NASA STELLA-Q2 is capable of making 18 different measurements from violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision). More can be found on the STELLA DIY instruments at the following link.
 
@@ -24,10 +24,13 @@ This is the STELLA parts list that we used to order our components:
 
 ![image](STELLA-Q2_parts_list.png)
 
-
-We are just starting on the applications from this spectrometer, but they appear to be immense. This is just one application we are delving into as noted from North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
+We are just starting on the applications from this spectrometer, but they appear to be immense. The following firgure provides some information on just one application we are delving into as noted from North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
 
 ![image](STELLA_Applications.png)
+
+Bianca Clento of Rochester Institute of Technology has an excellent poster on the **Quantifying Plant Biodiversity Using Different Spectrometers, Spectral Unmixing, and UAV Imagery** that serves as an example of the type of application that we would like to apply for SW Florida Gulf Coast. 
+
+>![image](Cilento_AGU23-scaled.jpg)
 
 This is the STS STELLA-Q2 instrument that we built using the details supplied by the NASA:
 
