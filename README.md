@@ -1,5 +1,5 @@
 
-![image](STS.png)
+>![image](STS.png)
 
 # Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer
 
@@ -10,12 +10,12 @@ The NASA STELLA-Q2 can make 18 different measurements from violet/blue portions 
 https://landsat.gsfc.nasa.gov/stella/
 
 The following is an animation of the data aquired from STELLA-Q2 Spectrometer built by STS.
-
-![image](STELLA_color.gif)
-
+>
+>![image](STELLA_color.gif)
+>
 The NASA site offers detailed instructions on the build at the following link:
 
 https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-build-instructions/
 
-![image](STELLA-Q2_build.png)
+![image](STELLA_Q2_build.png)
 
