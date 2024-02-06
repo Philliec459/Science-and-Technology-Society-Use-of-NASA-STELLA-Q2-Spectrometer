@@ -1,5 +1,5 @@
 
-![image](STS.png)
+![image](sts_nasa.png)
 
 # Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer
 
