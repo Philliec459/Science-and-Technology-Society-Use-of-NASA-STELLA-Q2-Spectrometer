@@ -101,12 +101,12 @@ As stated in their paper:
     
 >![image](Mangrove_conditions.png)
 
-
+---
 ## Testing:
 Now that we have out STELLA-Q2 device in working order, we will start our testing from know color swatches to actual vegetative species and states of health.
 
 
-
+---
 ## Bibliography:
 **1** North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
 
