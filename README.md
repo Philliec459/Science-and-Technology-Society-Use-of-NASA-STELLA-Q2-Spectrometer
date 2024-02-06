@@ -44,4 +44,14 @@ Bianca Clento of Rochester Institute of Technology has an excellent poster on th
 
 >![image](Cilento_AGU23-scaled.jpg)
 
+Our long-term plan is to deploy the STELLA-Q2 on a drone captureing spectral data along our Florida Gulf Coast. In recent meeting with Sherri Swanson,Ecological and Marine Resources Division Manager for Manatee County Natural Resources, Sherri has been extremely helpful providing us shapefiles for the SBEP Watershed boundaries and a very interesting paper on Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss: Mangrove Heart Attack available in this repository. 
 
+>![image](Identifying_and_Diagnosing_Locations.png)
+
+and is image is from the SBEP Watershed Boundaries Shapefile:
+
+>![image](SBEP_watershed.png)
+
+
+## Testing:
+Now that we have out STELLA-Q2 device in working order, we will start our testing from know color swatches to actual vegatative species and states of health.
