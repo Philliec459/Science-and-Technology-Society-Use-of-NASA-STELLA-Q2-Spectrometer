@@ -65,9 +65,9 @@ In this report they state:
 
 STS plans on providing the ground truth data to be used in the calibration of these Landsat images. 
 
-      According to their paper:
+As stated in their paper:
 
-      Mangrove Conditions can be assessed from the work performed by Pastor-Guzman et al (2015) compared 20 hyperspectral and broad band vegetation indices to relative mangrove canopy chlorophyll measured at 12 sites along the northwest coast of the Yucatan Peninsula, Mexico. The sites were 30m by 30m to represent Landsat spatial resolution. The purpose of the work was to develop indicators of mangrove condition using remotely sensed data. Of the indices, normally distributed vegetation index green (NDVIgreen) was the most sensitive to canopy chlorophyll at the site level (R2 = 0.805.) The formula for NDVIgreen uses the near infrared and green bands. We found the NVDIgreen index to be an excellent indicator of mangrove condition in the Charlotte Harbor area.
+      "Mangrove Conditions can be assessed from the work performed by Pastor-Guzman et al (2015) compared 20 hyperspectral and broad band vegetation indices to relative mangrove canopy chlorophyll measured at 12 sites along the northwest coast of the Yucatan Peninsula, Mexico. The sites were 30m by 30m to represent Landsat spatial resolution. The purpose of the work was to develop indicators of mangrove condition using remotely sensed data. Of the indices, normally distributed vegetation index green (NDVIgreen) was the most sensitive to canopy chlorophyll at the site level (R2 = 0.805.) The formula for NDVIgreen uses the near infrared and green bands. We found the NVDIgreen index to be an excellent indicator of mangrove condition in the Charlotte Harbor area.
       
       The formula for NDVIgreen using Landsat 8 bands is:
 
@@ -95,7 +95,7 @@ STS plans on providing the ground truth data to be used in the calibration of th
 
     Applying the equation to the Landsat 8 NDVIgreen values yielded a generally narrower range of canopy chlorophyll values for Charlotte Harbor compared to the Yucatan. Because the equation could not be applied to earlier Landsat missions and more work needed to be done to confirm the relationships between Charlotte Harbor mangrove canopy chlorophyll and NDVIgreen, the Principal Investigator settled on simply using NDVIgreen the indicator of mangrove condition.
     
-    The B7-NIR band for Landsat 8 is between 0.85 and 0.88 micrometers wavelength, compared to 0.76 and 0.9 for Landsat 4 and 5. The Landsat 4 and 5 missions together provide a period of record from July 16, 1982 through June 5, 2012. Between the differences in wavelength and data formats, direct comparisons are difficult. The next section describes the method used to compare NDVIgreen between Landsat missions in order to detect change in mangrove condition from before the Landsat 8 launch in 2013. The image below is from this report showing the mangrove conditions assessed from the NDVIgreen calculations.
+    The B7-NIR band for Landsat 8 is between 0.85 and 0.88 micrometers wavelength, compared to 0.76 and 0.9 for Landsat 4 and 5. The Landsat 4 and 5 missions together provide a period of record from July 16, 1982 through June 5, 2012. Between the differences in wavelength and data formats, direct comparisons are difficult. The next section describes the method used to compare NDVIgreen between Landsat missions in order to detect change in mangrove condition from before the Landsat 8 launch in 2013. The image below is from this report showing the mangrove conditions assessed from the NDVIgreen calculations."
     
 >![image](Mangrove_conditions.png)
 
