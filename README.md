@@ -3,9 +3,9 @@
 
 # Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer
 
-The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida** is working with the NASA STELLA (Science and Technology Education for Land/Life Assessment) outreach program as a part of our STEM initiative. According to their site, "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better". This sounded perfect for our needs and to add an interesting project for our **STEAM** inititiaves. 
+The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida** is working with the NASA STELLA (Science and Technology Education for Land/Life Assessment) outreach program as a part of our STEM initiative. According to their site, "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better". This sounded perfect for our needs and to add an interesting project for our **STEAM** initiatives. 
 
-The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following firgure**1** shows the visiblle spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
+The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure**1** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
 
 >![image](Spectrum.png)
 
@@ -41,7 +41,7 @@ There is excellent documentation on programming this device that can be found at
 >https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-programming-instructions/
 ---
 ## Applications: 
-We are just starting on the applications from this spectrometer, but they appear to be immense. The following firgure provides some information on just one application we are delving into**1** 
+We are just starting on the applications from this spectrometer, but they appear to be immense. The following figure provides some information on just one application we are delving into**1** 
 
 >![image](STELLA_Applications.png)
 
@@ -49,7 +49,7 @@ Bianca Clento of Rochester Institute of Technology has an excellent poster on th
 
 >![image](Cilento_AGU23-scaled.jpg)
 
-Our long-term plan is to deploy the STELLA-Q2 on a drone captureing spectral data along our Florida Gulf Coast. In a recent meeting with Sherri Swanson,Ecological and Marine Resources Division Manager for Manatee County Natural Resources, Sherri has been extremely helpful providing us shapefiles for the Sarasota Bay Estuary Program (SBEP) Watershed boundaries and a very interesting paper on Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss**2** available in this repository too.  
+Our long-term plan is to deploy the STELLA-Q2 on a drone capturing spectral data along our Florida Gulf Coast. In a recent meeting with Sherri Swanson, Ecological and Marine Resources Division Manager for Manatee County Natural Resources, Sherri has been extremely helpful providing us shapefiles for the Sarasota Bay Estuary Program (SBEP) Watershed boundaries and a very interesting paper on Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss**2** available in this repository too.  
 
 >![image](Identifying_and_Diagnosing_Locations.png)
 
@@ -65,10 +65,13 @@ In this report they state:
 
 STS plans on providing the ground truth data to be used in the calibration of these Landsat images. 
 
-    According to their paper, Mangrove Conditions can be assessed from the work performed by Pastor-Guzman et al (2015) compared 20 hyperspectral and broad band vegetation indices to relative mangrove canopy chlorophyll measured at 12 sites along the northwest coast of the Yucatan Peninsula, Mexico. The sites were 30m by 30m to represent Landsat spatial resolution. The purpose of the work was to develop indicators of mangrove condition using remotely sensed data. Of the indices, normally distributed vegetation index green (NDVIgreen) was the most sensitive to canopy chlorophyll at the site level (R2 = 0.805.) The formula for NDVIgreen uses the near infrared and green bands. We found the NVDIgreen index to be an excellent indicator of mangrove condition in the Charlotte Harbor area.
+According to their paper:
+
+      Mangrove Conditions can be assessed from the work performed by Pastor-Guzman et al (2015) compared 20 hyperspectral and broad band vegetation indices to relative mangrove canopy chlorophyll measured at 12 sites along the northwest coast of the Yucatan Peninsula, Mexico. The sites were 30m by 30m to represent Landsat spatial resolution. The purpose of the work was to develop indicators of mangrove condition using remotely sensed data. Of the indices, normally distributed vegetation index green (NDVIgreen) was the most sensitive to canopy chlorophyll at the site level (R2 = 0.805.) The formula for NDVIgreen uses the near infrared and green bands. We found the NVDIgreen index to be an excellent indicator of mangrove condition in the Charlotte Harbor area.
+      
 The formula for NDVIgreen using Landsat 8 bands is:
 
-          NDVIgreen = (NIR−Green)/(NIR+Green)
+          *NDVIgreen = (NIR−Green)/(NIR+Green)*
     
     Where:
     
@@ -77,7 +80,7 @@ The formula for NDVIgreen using Landsat 8 bands is:
     
     The formula for NDVIgreen using Landsat 5 and 7 bands is:
     
-          NDVIgreen = (NIR−Green)/(NIR+Green)
+          *NDVIgreen = (NIR−Green)/(NIR+Green)*
     
     Where:
     
@@ -86,7 +89,7 @@ The formula for NDVIgreen using Landsat 8 bands is:
     
     Pastor-Guzman et al (2015) further explain that the linear model to construct a mangrove canopy  chlorophyll map is:
     
-              y =−54.545 + 149.396x
+              *y =−54.545 + 149.396x*
               
       x = pixel value of the Landsat 8 NDVIgreen calculation.
 
@@ -98,9 +101,11 @@ The formula for NDVIgreen using Landsat 8 bands is:
 
 
 ## Testing:
-Now that we have out STELLA-Q2 device in working order, we will start our testing from know color swatches to actual vegatative species and states of health.
+Now that we have out STELLA-Q2 device in working order, we will start our testing from know color swatches to actual vegetative species and states of health.
 
 
+
+## Bibliography:
 **1** North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
 
 **2** Charlotte Harbor National Estuary Program Technical Report 16-3, *Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss: Mangrove Heart Attack*, 3/9/2017
