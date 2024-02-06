@@ -14,7 +14,7 @@ The following is a sample-by-sample animation of the type of data acquired from 
 >
 >![image](STELLA_color.gif)
 >
-
+---
 ## Building the STELLA-Q2 device:
 The NASA site offers detailed instructions on how to build the STELLA-Q2 instrument at the following link:
 
@@ -29,12 +29,12 @@ This is the STELLA parts list that we used to order our components:
 This is the STS STELLA-Q2 instrument that we built using the details supplied by the NASA:
 
 >![image](STELLA.jpg)
-
+---
 ## Programming the STELLA-Q2:
 There is excellent documentation on programming this device that can be found at the following link:
 
 >https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-programming-instructions/
-
+---
 ## Applications: 
 We are just starting on the applications from this spectrometer, but they appear to be immense. The following firgure provides some information on just one application we are delving into as noted from North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
 
