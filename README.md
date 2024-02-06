@@ -65,11 +65,11 @@ In this report they state:
 
 STS plans on providing the ground truth data to be used in the calibration of these Landsat images. 
 
-According to their paper:
+      According to their paper:
 
       Mangrove Conditions can be assessed from the work performed by Pastor-Guzman et al (2015) compared 20 hyperspectral and broad band vegetation indices to relative mangrove canopy chlorophyll measured at 12 sites along the northwest coast of the Yucatan Peninsula, Mexico. The sites were 30m by 30m to represent Landsat spatial resolution. The purpose of the work was to develop indicators of mangrove condition using remotely sensed data. Of the indices, normally distributed vegetation index green (NDVIgreen) was the most sensitive to canopy chlorophyll at the site level (R2 = 0.805.) The formula for NDVIgreen uses the near infrared and green bands. We found the NVDIgreen index to be an excellent indicator of mangrove condition in the Charlotte Harbor area.
       
-The formula for NDVIgreen using Landsat 8 bands is:
+      The formula for NDVIgreen using Landsat 8 bands is:
 
           *NDVIgreen = (NIR−Green)/(NIR+Green)*
     
