@@ -22,7 +22,7 @@ The NASA site offers detailed instructions on how to build the STELLA-Q2 instrum
 
 >![image](STELLA_Q2_build.png)
 
-This is the STELLA parts list that we used to order our components:
+The following image is the provided  STELLA parts list that we used to order our components. If you download the parts list file from this repository, then the links will direct you to each component from one of the two vendors. 
 
 >![image](STELLA-Q2_parts_list.png)
 
