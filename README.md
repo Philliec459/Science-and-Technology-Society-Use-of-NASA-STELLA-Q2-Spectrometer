@@ -7,7 +7,7 @@ The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida
 
 - "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better". 
 
-STELLA instruments are developed under and inspired by Landsat. This sounded perfect for our needs and to add an interesting project for our **STEAM** initiatives. 
+**STELLA instruments are developed under the influence and inspiration of Landsat.** This alignment not only fulfills our project needs but also serves as a compelling addition to our STEAM initiatives. Our objective is to democratize access to such devices, empowering students to delve into the science of spectroscopy and explore its myriad applications. By placing these tools in the hands of young minds, we aim to ignite curiosity and inspire the next generation of scientists and innovators.
 
 The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure**1** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
 
