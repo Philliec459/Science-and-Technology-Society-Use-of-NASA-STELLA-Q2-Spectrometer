@@ -108,7 +108,7 @@ Now that we have out STELLA-Q2 device in working order, we will start our testin
 ## Acknowledgment:
 We extend our heartfelt appreciation to the NASA STELLA Team for their unwavering support of our STS STELLA project. Paul Mirel, the visionary creator and lead Engineer of the STELLA project, along with Mike Taylor, the esteemed Team Leader, and all contributors to the STELLA endeavor, have been invaluable in propelling our project forward. Their provision of tools, guidance, and expertise has been instrumental in our journey. STS is profoundly grateful for their steadfast technical support, which has been pivotal in our progress.
 
->![image]NASA_STELLA_Team.png)
+>![image](NASA_STELLA_Team.png)
 
 For more information, please go to the following website:
 
