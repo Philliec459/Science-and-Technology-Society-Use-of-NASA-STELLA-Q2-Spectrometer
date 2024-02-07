@@ -3,7 +3,11 @@
 
 # Science-and-Technology-Society-Use-of-NASA-STELLA-Q2-Spectrometer
 
-The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida** is working with the NASA STELLA (Science and Technology Education for Land/Life Assessment) outreach program as a part of our STEM initiative. According to their site, "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better". This sounded perfect for our needs and to add an interesting project for our **STEAM** initiatives. 
+The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida** is working with the NASA STELLA (Science and Technology Education for Land/Life Assessment) outreach program as a part of our STEM initiative. According to their site, 
+
+- "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better". 
+
+STELLA instruments are developed under and inspired by Landsat. This sounded perfect for our needs and to add an interesting project for our **STEAM** initiatives. 
 
 The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure**1** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
 
