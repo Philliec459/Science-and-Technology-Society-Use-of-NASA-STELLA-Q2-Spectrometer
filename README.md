@@ -7,7 +7,12 @@ The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida
 
 - "NASA STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better". 
 
-**STELLA instruments are developed under the influence and inspiration of Landsat.** This alignment not only fulfills our project needs but also serves as a compelling addition to our STEAM initiatives. Our objective is to democratize access to such devices, empowering students to delve into the science of spectroscopy and explore its myriad applications. By placing these tools in the hands of young minds, we aim to ignite curiosity and inspire the next generation of scientists and innovators.
+**STELLA instruments are developed under the influence and inspiration of Landsat.** This alignment not only fulfills our project needs but also serves as a compelling addition to our STEAM initiatives:
+
+      1) To train the minds young Floridians to be more aware of our wetlands, to care for them and about them.  Our program will bring more community publicity to the issue of wetlands change, as well.
+
+      2) To expose our middle- and high- school aged students to real science, using real data.  That means how to use instrumentation and understand how the data is collected, and how the data can be used in the real world.  It means not only to create beautiful charts and images that form the good results, but also to understand that data must be collected in a proper and reproducible way, that there physics reasons for lack of accuracy and lack of precision that one must understand and minimize in order to achieve meaningful results.
+
 
 The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure**1** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
 
