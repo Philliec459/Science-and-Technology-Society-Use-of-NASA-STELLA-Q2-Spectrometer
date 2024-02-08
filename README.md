@@ -14,7 +14,7 @@ The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida
 2) To expose our middle- and high- school aged students to real science, using real data.  That means how to use instrumentation and understand how the data is collected, and how the data can be used in the real world.  It means not only to create beautiful charts and images that form the good results, but also to understand that data must be collected in a proper and reproducible way, that there physics reasons for lack of accuracy and lack of precision that one must understand and minimize in order to achieve meaningful results.
 
 
-The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure**1** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
+The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure**(1)** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
 
 >![image](Spectrum.png)
 
@@ -60,7 +60,7 @@ Bianca Clento of Rochester Institute of Technology has an excellent poster on th
 >![image](Cilento_AGU23-scaled.jpg)
 
 ---
-Our long-term plan is to deploy the STELLA-Q2 on a drone capturing spectral data along our Florida Gulf Coast. In a recent meeting with Sherri Swanson, Ecological and Marine Resources Division Manager for Manatee County Natural Resources, Sherri has been extremely helpful providing us shapefiles for the Sarasota Bay Estuary Program (SBEP) Watershed boundaries and a very interesting paper on Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss**2** available in this repository too.  
+Our long-term plan is to deploy the STELLA-Q2 on a drone capturing spectral data along our Florida Gulf Coast. In a recent meeting with Sherri Swanson, Ecological and Marine Resources Division Manager for Manatee County Natural Resources, Sherri has been extremely helpful providing us shapefiles for the Sarasota Bay Estuary Program (SBEP) Watershed boundaries and a very interesting paper on Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss**(2)** available in this repository too.  
 
 >![image](Identifying_and_Diagnosing_Locations.png)
 
@@ -125,6 +125,6 @@ https://landsat.gsfc.nasa.gov/stella/
 
 ---
 ## Bibliography:
-**1** North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
+**(1)** North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
 
-**2** Charlotte Harbor National Estuary Program Technical Report 16-3, *Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss: Mangrove Heart Attack*, 3/9/2017
+**(2)** Charlotte Harbor National Estuary Program Technical Report 16-3, *Identifying and Diagnosing Locations of Ongoing and Future Saltwater Wetland Loss: Mangrove Heart Attack*, 3/9/2017
