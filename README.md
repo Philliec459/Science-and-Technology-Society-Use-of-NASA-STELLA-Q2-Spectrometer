@@ -14,7 +14,7 @@ The **Science and Technology Society (STS) of Sarasota-Manatee Counties, Florida
 2) To expose our middle- and high- school aged students to real science, using real data.  That means how to use instrumentation and understand how the data is collected, and how the data can be used in the real world.  It means not only to create beautiful charts and images that form the good results, but also to understand that data must be collected in a proper and reproducible way, that there physics reasons for lack of accuracy and lack of precision that one must understand and minimize in order to achieve meaningful results.
 
 
-The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure**(1)** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
+The NASA STELLA-Q2 is capable of making 18 different spectral measurements from the violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision).The following figure **(1)** shows the visible spectrum by wavelength, and the yellow box indicates the STELLA-Q2 frequency range. 
 
 >![image](Spectrum.png)
 
@@ -50,7 +50,7 @@ There is excellent documentation on programming this device that can be found at
 >https://landsat.gsfc.nasa.gov/stella/stella-q2/stella-q2-programming-instructions/
 ---
 ## Applications: 
-We are just starting on the applications from this spectrometer, but they appear to be immense. The following figure provides some information on just one application we are delving into**1** 
+We are just starting on the applications from this spectrometer, but they appear to be immense. The following figure provides some information on just one application we are delving into **(1)** 
 
 >![image](STELLA_Applications.png)
 
@@ -78,7 +78,7 @@ STS plans on providing the ground truth data to be used in the calibration of th
 
 As stated in their paper:
 
-      "Mangrove Conditions can be assessed from the work performed by Pastor-Guzman et al (2015) compared 20 hyperspectral and broad band vegetation indices to relative mangrove canopy chlorophyll measured at 12 sites along the northwest coast of the Yucatan Peninsula, Mexico. The sites were 30m by 30m to represent Landsat spatial resolution. The purpose of the work was to develop indicators of mangrove condition using remotely sensed data. Of the indices, normally distributed vegetation index green (NDVIgreen) was the most sensitive to canopy chlorophyll at the site level (R2 = 0.805.) The formula for NDVIgreen uses the near infrared and green bands. We found the NVDIgreen index to be an excellent indicator of mangrove condition in the Charlotte Harbor area.
+      "Mangrove Conditions can be assessed from the work performed by Pastor-Guzman et al (2015) compared 20 hyperspectral and broad band vegetation indices to relative mangrove canopy chlorophyll measured at 12 sites along the northwest coast of the Yucatan Peninsula, Mexico. The sites were 30m by 30m to represent Landsat spatial resolution. The purpose of the work was to develop indicators of mangrove condition using remotely sensed data. Of the indices, normally distributed vegetation index green (NDVIgreen) was the most sensitive to canopy chlorophyll at the site level (r2 = 0.805.) The formula for NDVIgreen uses the near infrared and green bands. We found the NVDIgreen index to be an excellent indicator of mangrove condition in the Charlotte Harbor area.
       
       The formula for NDVIgreen using Landsat 8 bands is:
 
