@@ -126,13 +126,14 @@ Most examples notebooks have the raw STELLA readings along with readings from ou
 
 >![image](grass_readings.gif)
 
-These are the python libraries are required in your python installation to run these notebooks.
-            import numpy as np
-            import pandas as pd
-            import matplotlib.pyplot as plt
-            import re
-            import ipywidgets as widgets
-            from IPython.display import display
+These are the python libraries are required in your python installation to run these notebooks:
+
+      import numpy as np
+      import pandas as pd
+      import matplotlib.pyplot as plt
+      import re
+      import ipywidgets as widgets
+      from IPython.display import display
 
 
 
