@@ -112,7 +112,7 @@ As stated in their paper:
 
 ---
 ## Testing:
-Now that we have out STELLA-Q2 device in working order, we have started our testing from know color pamels to actual vegetative species and states of health in different shades of light (Full Sun, Shade...). We have created 5 Jupyter Notebooks using the data from our STELLA-Q2 device:
+Now that we have out STELLA-Q2 device in working order, we have started our testing from know color panels to actual vegetative species and states of health in different shades of light (Full Sun, Shade...). We have created 5 Jupyter Notebooks using the data from our STELLA-Q2 device for 4 different examples.
 
             TELLA_brief_ver2_All_Examples.ipynb
             STELLA_brief_ver2_Test1_color_panels.ipynb
@@ -120,9 +120,20 @@ Now that we have out STELLA-Q2 device in working order, we have started our test
             STELLA_brief_ver2_Test3_all_white_calibration_Grass3PM.ipynb
             STELLA_brief_ver2_Test4_white_grass_shade_shadewhite.ipynb
 
-with all of the data files too. Most examples have raw STELLA data along with readings from our phtotgraphic white card used for calibration. The entire process including calibration to the white card readings is demonstrated in these examples. 
+with all of the required data files too. 
+
+Most examples notebooks have the raw STELLA readings along with readings from our phtotographic White Card that is used for calibration. The entire process, including calibration to the white card readings, is demonstrated in these examples. The following animation is from our White Card readings in Full Sun, grass readings in full sun, grass readings in shade and White Card readings in shade too. The White Card calibration allows us to normalize all of these readings in these different lighting conditions. 
 
 >![image](grass_readings.gif)
+
+These are the python libraries are required in your python installation to run these notebooks.
+            import numpy as np
+            import pandas as pd
+            import matplotlib.pyplot as plt
+            import re
+            import ipywidgets as widgets
+            from IPython.display import display
+
 
 
 ## Acknowledgment:
