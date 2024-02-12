@@ -122,6 +122,8 @@ Now that we have out STELLA-Q2 device in working order, we have started our test
 
 with all of the data files too. Most examples have raw STELLA data along with readings from our phtotgraphic white card used for calibration. The entire process including calibration to the white card readings is demonstrated in these examples. 
 
+>![image](grass_readings.gif)
+
 
 ## Acknowledgment:
 We extend our heartfelt appreciation to the NASA STELLA Team for their unwavering support of our STS STELLA project. Paul Mirel, the visionary creator and lead Engineer of the STELLA project, along with Mike Taylor, the esteemed Team Leader, and Petya Campbell, the Lead Scientist, alongside all contributors to the STELLA endeavor, have been invaluable in propelling our project forward. Their provision of tools, guidance, and expertise has been instrumental in our journey. STS is profoundly grateful for their steadfast technical support, which has been pivotal in our progress.
