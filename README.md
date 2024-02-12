@@ -112,7 +112,16 @@ As stated in their paper:
 
 ---
 ## Testing:
-Now that we have out STELLA-Q2 device in working order, we will start our testing from know color swatches to actual vegetative species and states of health.
+Now that we have out STELLA-Q2 device in working order, we have started our testing from know color pamels to actual vegetative species and states of health in different shades of light (Full Sun, Shade...). We have created 5 Jupyter Notebooks using the data from our STELLA-Q2 device:
+
+            TELLA_brief_ver2_All_Examples.ipynb
+            STELLA_brief_ver2_Test1_color_panels.ipynb
+            STELLA_brief_ver2_Test2_backyard_shoreline.ipynb
+            STELLA_brief_ver2_Test3_all_white_calibration_Grass3PM.ipynb
+            STELLA_brief_ver2_Test4_white_grass_shade_shadewhite.ipynb
+
+with all of the data files too. Most examples have raw STELLA data along with readings from our phtotgraphic white card used for calibration. The entire process including calibration to the white card readings is demonstrated in these examples. 
+
 
 ## Acknowledgment:
 We extend our heartfelt appreciation to the NASA STELLA Team for their unwavering support of our STS STELLA project. Paul Mirel, the visionary creator and lead Engineer of the STELLA project, along with Mike Taylor, the esteemed Team Leader, and Petya Campbell, the Lead Scientist, alongside all contributors to the STELLA endeavor, have been invaluable in propelling our project forward. Their provision of tools, guidance, and expertise has been instrumental in our journey. STS is profoundly grateful for their steadfast technical support, which has been pivotal in our progress.
