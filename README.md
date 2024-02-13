@@ -153,11 +153,7 @@ https://landsat.gsfc.nasa.gov/stella/
 
 ## Stunning 3D printed housing for STELLA-Q2 designed and built by Paul Mirel:
 
->![image](STELLA_Enclosure.jpg)
->![image](IMG_2447.jpg)
->![image](IMG_2446.jpg)
->![image](IMG_2448.jpg)
->![image](IMG_2444.jpg)
+>![image](STELLA_Q2_Housing.png)
 
 
 ---
