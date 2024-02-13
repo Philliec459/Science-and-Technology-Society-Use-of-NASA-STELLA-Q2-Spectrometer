@@ -128,7 +128,7 @@ Most examples notebooks have the raw STELLA readings along with readings from ou
 
 As of this date we have been using photographic 18% gray and white cards for our calibration, but we will be going to white polystyrene foam per the advice from Paul Mirel which is reporte to be a "broadband spectrally flat reflector". This sounds ideal and much cheaper than Spectralon. White PTFE (Polytetrafluoroethylene) Sheets are also an option. 
 
-These are the python libraries that are required in your python installation to run these notebooks:
+The following are the python libraries that are required to run these notebooks:
 
       import numpy as np
       import pandas as pd
@@ -137,6 +137,7 @@ These are the python libraries that are required in your python installation to 
       import ipywidgets as widgets
       from IPython.display import display
 
+We have been using a Anaconda installation of python, and all of these libraries are readily available. 
 
 
 ## Acknowledgment:
