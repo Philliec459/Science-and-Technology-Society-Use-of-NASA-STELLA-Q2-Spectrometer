@@ -139,6 +139,8 @@ The following are the python libraries that are required to run these notebooks:
 
 We have been using an Anaconda installation of python, and all of these libraries were readily available. 
 
+We did changed the header portion of the code.py file on the STELLA-Q2 for the near IR wavelengths to include a color name as a part of the column description. Our version of the code.py file works well and now has matplotlib recognized color names embedded in the column names of this header file for plotting purposes. Please find in this repository the original code_original.py and our new STS version of code.py that we are using on our STELLA-Q2. The near IR regions can be distinguished on our spectral plots since these wavelengths have a lavender background and are located at the long end of the spectrum. We hope this is not too confusing. 
+
 
 ## Acknowledgment:
 We extend our heartfelt appreciation to the NASA STELLA Team for their unwavering support of our STS STELLA project. Paul Mirel, the visionary creator and lead Engineer of the STELLA project, along with Mike Taylor, the esteemed Team Leader, and Petya Campbell, the Lead Scientist, alongside all contributors to the STELLA endeavor, have been invaluable in propelling our project forward. Their provision of tools, guidance, and expertise has been instrumental in our journey. STS is profoundly grateful for their steadfast technical support, which has been pivotal in our progress.
