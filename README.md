@@ -149,6 +149,16 @@ For more information, please go to the following website:
 
 https://landsat.gsfc.nasa.gov/stella/
 
+## Stunning 3D printed housing for STELLA-Q2 designed and built by Paul Mirel:
+
+>![image](IMG_2447.jpg)
+>![image](IMG_2446.jpg)
+>![image](IMG_2448.jpg)
+>![image](IMG_2444.jpg)
+>![image](IMG_2443.jpg)
+>![image](STELLA_Enclosure.jpg)
+
+
 ---
 ## Bibliography:
 **(1)** North Carolina Geographic Information Coordinating Council by the Statewide Mapping Advisory Committee, Working Group for Orthophotography Planning, July 2011.
