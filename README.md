@@ -137,7 +137,7 @@ The following are the python libraries that are required to run these notebooks:
       import ipywidgets as widgets
       from IPython.display import display
 
-We have been using a Anaconda installation of python, and all of these libraries are readily available. 
+We have been using an Anaconda installation of python, and all of these libraries were readily available. 
 
 
 ## Acknowledgment:
