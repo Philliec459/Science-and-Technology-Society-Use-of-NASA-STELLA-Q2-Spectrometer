@@ -156,7 +156,7 @@ https://landsat.gsfc.nasa.gov/stella/
 
 >![image](STELLA_Q2_Housing.png)
 
-Here is the updated STELLA-Q2 drone housing 3D print files with instructions and photos from Mike Taylor:
+A link to the updated STELLA-Q2 drone housing 3D print files with instructions and photos from Mike Taylor can be found below:
  
 https://landsat.gsfc.nasa.gov/wp-content/uploads/2024/02/Q2-drone-parts-1.zip
 
