@@ -82,7 +82,7 @@ As stated in their paper:
       
       The formula for NDVIgreen using Landsat 8 bands is:
 
-          *NDVIgreen = (NIR−Green)/(NIR+Green)*
+          NDVIgreen = (NIR−Green)/(NIR+Green)
     
     Where:
     
@@ -91,7 +91,7 @@ As stated in their paper:
     
     The formula for NDVIgreen using Landsat 5 and 7 bands is:
     
-          *NDVIgreen = (NIR−Green)/(NIR+Green)*
+          NDVIgreen = (NIR−Green)/(NIR+Green)
     
     Where:
     
@@ -100,7 +100,7 @@ As stated in their paper:
     
     Pastor-Guzman et al (2015) further explain that the linear model to construct a mangrove canopy  chlorophyll map is:
     
-              *y =−54.545 + 149.396x*
+              y =−54.545 + 149.396x
               
       x = pixel value of the Landsat 8 NDVIgreen calculation.
 
