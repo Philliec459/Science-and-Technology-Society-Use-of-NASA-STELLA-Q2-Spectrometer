@@ -160,6 +160,10 @@ A link to the updated STELLA-Q2 drone housing 3D print files with instructions a
  
 https://landsat.gsfc.nasa.gov/wp-content/uploads/2024/02/Q2-drone-parts-1.zip
 
+## STELLA Readings by Different Plant targets:
+
+>![image](STELLA_with_Photos.gif)
+
 
 ---
 ## Bibliography:
