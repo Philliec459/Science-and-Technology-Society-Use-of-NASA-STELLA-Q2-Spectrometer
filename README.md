@@ -118,6 +118,23 @@ Now that we have our STELLA-Q2 device in working order, we have started testing 
 
 with all of the required data files being provided. 
 
+We also have included a Notebool called **convert_clean4_clean.ipynb** that will convert STELLA files into easy to use Excel files and the program also calculates NDVI with plots. 
+
+### Calculations of NDVI, NIRv...:
+
+
+        NDVI = ( NIR  -  Red )   /  ( NIR  +  Red ) 
+
+        NDVI = (860nm  -  645nm)  / (860nm  + 6 45nm)
+        
+        
+    Testing use of NIRv in certain situations related to phenology of plant cylcles:
+        
+        NIRv = NDVI * NIR = NDVI * 860nm
+        
+        
+**NDVI and now NIRv can be very good attributes to be used to differentiate Vegetative species.** 
+
 Most examples notebooks have the raw STELLA readings along with readings from our phtotographic White Card that is used for calibration. The entire process, including calibration to the white card readings, is demonstrated in these examples. The following animation is from our White Card readings in Full Sun, grass readings in full sun, grass readings in shade and White Card readings in shade too. The White Card calibration allows us to normalize all of these readings in these different lighting conditions. 
 
 >![image](grass_readings.gif)
