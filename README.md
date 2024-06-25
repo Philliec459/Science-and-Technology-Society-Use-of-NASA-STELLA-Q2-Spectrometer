@@ -82,7 +82,7 @@ As stated in their paper:
       
       The formula for NDVIgreen using Landsat 8 bands is:
 
-          NDVIgreen = (NIR−Green)/(NIR+Green)
+          NDVIgreen = (NIR − Green)/(NIR + Green)
     
     Where:
     
@@ -91,7 +91,7 @@ As stated in their paper:
     
     The formula for NDVIgreen using Landsat 5 and 7 bands is:
     
-          NDVIgreen = (NIR−Green)/(NIR+Green)
+          NDVIgreen = (NIR − Green)/(NIR + Green)
     
     Where:
     
@@ -118,17 +118,21 @@ Now that we have our STELLA-Q2 device in working order, we have started testing 
 
 with all of the required data files being provided. 
 
-We also have included a Notebool called **convert_clean4_clean.ipynb** that will convert STELLA files into easy to use Excel files and the program also calculates NDVI with plots. 
+We also have included a Jupyter Notebook called:
+
+      convert_clean4_clean.ipynb 
+      
+that will convert STELLA files into easy to use Excel files.  The program first reads in raw STELLA data and an Excel file representing your white-card data, and then makes the white-card corrections for each STELLA wavelength as well as calculating NDVI with plots too. We used python xlswriter to perform these tasks. 
 
 ### Calculations of NDVI, NIRv...:
 
 
-        NDVI = ( NIR  -  Red )   /  ( NIR  +  Red ) 
+        NDVI =  ( NIR  -  Red )   /  ( NIR  +  Red ) 
 
-        NDVI = (860nm  -  645nm)  / (860nm  + 6 45nm)
+        NDVI = (860nm  -  645nm)  / (860nm  + 645nm)
         
         
-    Testing use of NIRv in certain situations related to phenology of plant cylcles:
+    We are testing use of NIRv in certain situations related to phenology of plant cycles (photosynthesis vs. transpiration). The NDVI reading for grass are nearly the same, but the NIRv for grass in shade is much lower than the NIRv of grass in bright sunlight. 
         
         NIRv = NDVI * NIR = NDVI * 860nm
         
@@ -139,7 +143,7 @@ Most examples notebooks have the raw STELLA readings along with readings from ou
 
 >![image](grass_readings.gif)
 
-As of this date we have been using photographic 18% gray and white cards for our calibration, but we will be going to white polystyrene foam per the advice from Paul Mirel which is reporte to be a "broadband spectrally flat reflector". This sounds ideal and much cheaper than Spectralon. White PTFE (Polytetrafluoroethylene) Sheets are also an option. 
+As of this date we have been using photographic 18% gray and white cards for our calibration, but we will be going to white polystyrene foam per the advice from Paul Mirel which is reported to be a "broadband spectrally flat reflector". This sounds ideal and much cheaper than Spectralon. White PTFE (Polytetrafluoroethylene) Sheets are also an option. 
 
 The following are the python libraries that are required to run these notebooks:
 
