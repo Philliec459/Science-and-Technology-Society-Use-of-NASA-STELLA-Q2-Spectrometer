@@ -114,7 +114,7 @@ As stated in their paper:
 ## Testing:
 Now that we have our STELLA-Q2 device in working order, we have started testing from know color panels to actual vegetative species and states of health in different shades of light (Full Sun, Shade...). We have created 5 Jupyter Notebooks using the data from our STELLA-Q2 device for 4 different examples:
 
-      STELLA_brief_ver2_Test4_white_grass_shade_shadewhite.ipynb
+      STELLA_brief_ver2_backyard_grass_shoreline.ipynb
 
 with all of the required data files being provided. 
 
