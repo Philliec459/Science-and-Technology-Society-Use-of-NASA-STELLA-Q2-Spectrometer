@@ -124,7 +124,7 @@ We also have included a Jupyter Notebook called:
       
 that will convert STELLA files into easy to use Excel files.  The program first reads in raw STELLA data and an Excel file representing your white-card data, and then makes the white-card corrections for each STELLA wavelength as well as calculating NDVI with plots too. We used python xlswriter to perform these tasks. 
 
-### Calculations of NDVI, NIRv...:
+## STS Calculations of NDVI, NIRv...:
 
 
         NDVI =  ( NIR  -  Red )   /  ( NIR  +  Red ) 
