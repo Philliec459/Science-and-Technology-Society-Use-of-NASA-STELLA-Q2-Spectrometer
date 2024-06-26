@@ -111,18 +111,24 @@ As stated in their paper:
 >![image](Mangrove_conditions.png)
 
 ---
-## Testing:
+## STS Examples:
 Now that we have our STELLA-Q2 device in working order, we have started testing from know color panels to actual vegetative species and states of health in different shades of light (Full Sun, Shade...). We have created 2 Jupyter Notebooks using the data from our STELLA-Q2 device for 4 different examples:
 
       STELLA_brief_ver2_backyard_grass_shoreline.ipynb
 
-with all of the required data files being provided. In this notebook we first load our STELLA-Q2 raw data as well as the White-Card readings we took for calibration. We then proceed to plot the raw STELLA data and then the White-Corrected data. We calculate NDVI and NIRv as shown below to be used in the prediction of all of our test patterns based on their spectral attributes. We first use the Decision Tree to evaluate the data and see what code is required to predict our test patterns in a determistic method. We then define our spectral end members for each test pattern and then use Knn to predict each test pattern too. Knn is a straight forward technique that is easy to understand and not a black box. 
+with all of the required data files being provided. In this notebook we perform the following steps:
+- We first load our STELLA-Q2 raw data as well as the White-Card readings that we made for calibration.
+- We then proceed to plot the raw STELLA data and then the White-Corrected data to evaluate the data.
+- We calculate NDVI and NIRv as discussed below. They are used in the prediction of all of our test patterns based on their spectral attributes.
+- We calculate a Decision Tree to evaluate the data and observe the code that is required to predict our test patterns in a determistic method.
+- We then define our spectral End Members for each of our test patterns.
+- We use Knn to predict each test pattern from our data. Knn is a straight forward technique that is very transparent and not a black box. 
 
 We also have included a Jupyter Notebook called:
 
       convert_clean4_clean.ipynb 
       
-that will convert STELLA files into easy to use Excel files.  The program first reads in raw STELLA data and an Excel file representing your white-card data, and then makes the white-card corrections for each STELLA wavelength as well as calculating NDVI with plots too. We used python xlswriter to perform these tasks. 
+This program will convert our typical STELLA files into easy to use Excel files. The program first reads in the raw STELLA data and your white-card data, and then makes the white-card corrections for each STELLA wavelength as well as calculating NDVI with plots too. We used python xlswriter to create our easy to use Excel files. 
 
 ## STS Calculations of NDVI, NIRv...:
 
