@@ -112,11 +112,11 @@ As stated in their paper:
 
 ---
 ## Testing:
-Now that we have our STELLA-Q2 device in working order, we have started testing from know color panels to actual vegetative species and states of health in different shades of light (Full Sun, Shade...). We have created 5 Jupyter Notebooks using the data from our STELLA-Q2 device for 4 different examples:
+Now that we have our STELLA-Q2 device in working order, we have started testing from know color panels to actual vegetative species and states of health in different shades of light (Full Sun, Shade...). We have created 2 Jupyter Notebooks using the data from our STELLA-Q2 device for 4 different examples:
 
       STELLA_brief_ver2_backyard_grass_shoreline.ipynb
 
-with all of the required data files being provided. 
+with all of the required data files being provided. In this notebook we first load our STELLA-Q2 raw data as well as the White-Card readings we took for calibration. We then proceed to plot the raw STELLA data and then the White-Corrected data. We calculate NDVI and NIRv as shown below to be used in the prediction of all of our test patterns based on their spectral attributes. We first use the Decision Tree to evaluate the data and see what code is required to predict our test patterns in a determistic method. We then define our spectral end members for each test pattern and then use Knn to predict each test pattern too. Knn is a straight forward technique that is easy to understand and not a black box. 
 
 We also have included a Jupyter Notebook called:
 
@@ -154,7 +154,7 @@ The following are the python libraries that are required to run these notebooks:
       import ipywidgets as widgets
       from IPython.display import display
 
-We have been using an Anaconda installation of python, and all of these libraries were readily available. 
+We have been using an Anaconda installation of python, and all of these libraries were readily available, but we are trying to make these methods available on Google CoLab where the data will be pulled from this GitHub repository and all calculations can then be run from your web browser. A Google account will be required for this and then we can link you to our notebooks upon your request. 
 
 We did changed the header portion of the code.py file on the STELLA-Q2 for the near IR wavelengths to include a color name as a part of the column description. Our version of the code.py file works well and now has matplotlib recognized color names embedded in the column names of this header file for plotting purposes. Please find in this repository the original code_original.py and our new STS version of code.py that we are using on our STELLA-Q2. The near IR regions can be distinguished on our spectral plots since these wavelengths have a lavender background and are located at the long end of the spectrum. We hope this is not too confusing. 
 
